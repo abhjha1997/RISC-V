@@ -39,6 +39,13 @@ A Large bit size Calculator won't work in high freqency operations because all t
 #### b) Pipeline logic in the Calculator:
 
 ![image](https://user-images.githubusercontent.com/97835399/155020063-bdb3a77d-6a58-4084-8d85-df89cb213907.png)
+![pipelining of main calculator ](https://user-images.githubusercontent.com/97835399/155868636-92a9faab-9c27-464e-a18c-c1e54b882e28.png)
+
+#### b) Calculator Single value memory Lab:
+
+![image](https://user-images.githubusercontent.com/97835399/155868552-6c73dd40-003f-42c5-b14a-b5bd3f8ed5aa.png)
+![image](https://user-images.githubusercontent.com/97835399/155856453-a76ef2a2-c974-4edf-acc1-d98254ba2193.png)
+
 
 
 
