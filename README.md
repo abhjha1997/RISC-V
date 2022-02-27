@@ -42,9 +42,16 @@ A Large bit size Calculator won't work in high freqency operations because all t
 ![pipelining of main calculator ](https://user-images.githubusercontent.com/97835399/155868636-92a9faab-9c27-464e-a18c-c1e54b882e28.png)
 
 #### b) Cycled Calculator with validity:
+##### i)Validity-
+Validity in TL-verilog is the notion when values of the signal is meaningful.The validity in TL-Verilog is expressed by 
+$valid ..?
+?$valid 
+Due to the above argument the waveforms are much easier to interpret and the error checking gets easier.
+##### ii) Clock gating:
+Most of the power consumption of semiconductor device comes due the continuous clock distribution. The transition in the clock burns a lot of power. Clock gating avoids toggling of signals.
 
 
-![image](https://user-images.githubusercontent.com/97835399/155868552-6c73dd40-003f-42c5-b14a-b5bd3f8ed5aa.png)
+![image](https://user-images.githubusercontent.com/97835399/155873092-25a7eecc-3335-4a53-9b7d-0604f3b33991.png)
 ![image](https://user-images.githubusercontent.com/97835399/155856453-a76ef2a2-c974-4edf-acc1-d98254ba2193.png)
 
 
