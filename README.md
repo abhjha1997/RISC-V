@@ -61,10 +61,18 @@ In addition to this two more operation is added to the pipelined Calculator "mem
 
 "mem" is going to capture the data into the memory 
 
-"recalL" is going to bring back the signal to the main calculator.
+"recall" is going to bring back the signal to the main calculator.
 
 ![image](https://user-images.githubusercontent.com/97835399/155873092-25a7eecc-3335-4a53-9b7d-0604f3b33991.png)
 ![image](https://user-images.githubusercontent.com/97835399/155856453-a76ef2a2-c974-4edf-acc1-d98254ba2193.png)
+
+## RISC-V CPU Micro-architecture:
+
+
+
+
+
+
 
 
 
